@@ -9,6 +9,9 @@ Developed a Tableau dashboard to analyze London Bike Sharing data, employing Pyt
 5. Utilize dynamic parameters and set actions in Tableau to create an interactive dashboard.
 6. Format and finalize the dashboard for presentation.
 
+### Dashboard
+https://public.tableau.com/views/Londonbikeridesdashboard/Tableaudebord1?:language=fr-FR&:sid=&:display_count=n&:origin=viz_share_link
+
 ### Data Source
 https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
 
